@@ -10,7 +10,7 @@ A Python based program that merges two data sets to create a single file and pri
 - Merge two data sets (milk collection and farmer details)
 - Apply logic to calculate total milk collection per zone and amount payable to farmers in their respective zone 
 - Rank and indicate top farmer in every zone
-- Create a clear report in form of table, grouping farmers in their respective zones
+- Create a clear report in form of table, grouping total supply and amount owed to each zone
 
 
 ## Setup
