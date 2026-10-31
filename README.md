@@ -50,6 +50,6 @@ Menengai      145        6275     Kamket
 
 ## Stack
 
-Python
+Python, Pandas
 
 
